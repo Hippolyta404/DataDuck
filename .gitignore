@@ -1,6 +1,7 @@
 # Visual Studio
 *.vs/
 .vs/
+C:\DataDuck\.vs
 
 # Python Byte-compiled / Optimized / DLL files
 __pycache__/
