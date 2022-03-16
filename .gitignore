@@ -1,4 +1,5 @@
 # Visual Studio
+*.vs/
 .vs/
 
 # Python Byte-compiled / Optimized / DLL files
